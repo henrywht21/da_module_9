@@ -1,2 +1,3 @@
 # da_module_9
 Development of SQL Database
+This project involved the data engineering of a system usings methods such as entity relationship diagrams and tools such as PostgreSQL. Given several .csv files, and ERD was developed using QuickDBD.com to provide the most efficient method of querying from the database. Datatypes were selected for the different columns and the relative primary keys and foreign keys were assigned for each table. Using PostgreSQL, the .csv files were converted to tables living in the database. To demonstrate the effectiveness of the database, eight sample SQL queries were performed. The ERD, script used to create the tables, and the queries and their results are all available in this respository. 
